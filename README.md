@@ -1,3 +1,5 @@
+`mvn clean package` creates target/kafka-streams-examples-5.0.0-standalone.jar
+
 # Kafka Streams Examples
 
 This project contains code examples that demonstrate how to implement real-time applications and event-driven
